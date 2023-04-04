@@ -1,0 +1,162 @@
+.container-Cards {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: 20px;
+}
+.container-Cards:hover {
+  cursor: pointer;
+}
+.card {
+  width: 150px;
+  height: 220px;
+  border-radius: 5px;
+  background: #ffffff;
+  position: relative;
+  padding: 1.8rem;
+  box-shadow: 2px 2px 10px 1px rgb(100, 100, 100);
+  transition: 0.5s ease-out;
+  overflow: visible;
+}
+.card:hover {
+  box-shadow: 2px 2px 10px 6px rgb(100, 100, 100);
+}
+.detail-compara-cont-2 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+}
+.detail-compara-cont-2 input {
+  text-align: center;
+  height: 30px;
+  margin-bottom: 10px;
+  width: 60%;
+}
+.detail-compara-cont-2 button {
+  color: white;
+  margin-top: 10px;
+  background-color: red;
+  border: none;
+  border-radius: 3px;
+  margin-top: 10px;
+
+}
+
+.detail-compara-cont-2 button:hover {
+  cursor: pointer;
+  background-color: rgb(119, 0, 0);
+}
+.detail-compara-cont-2 div button {
+  height: 25px;
+  width: 50%;
+  background-color: rgb(0, 65, 0);
+  color: white;
+  border: none;
+  margin-bottom: 10px;
+}
+.detail-compara-cont-2 div {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.detail-compara-cont-2 h3 {
+  margin: 0;
+}
+.detail-compara-cont-2 div button:hover {
+  cursor: pointer;
+  background-color: rgb(0, 41, 0);
+}
+.cont-form-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 90vh;
+}
+
+.detail-compara-cont-2 img {
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+.cont-mi-por-a-se {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 200px 200px 200px 200px;
+  column-gap: 30px;
+}
+
+.card-details {
+  color: black;
+  height: 100%;
+  gap: 0.5em;
+  display: grid;
+  place-content: center;
+}
+.super-det-pre-2-pla {
+  text-align: center;
+  color: rgb(0, 73, 0);
+}
+
+.cardetails img {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  filter: brightness(1.1);
+  mix-blend-mode: multiply;
+}
+.cardetails p {
+  font-family: "Phudu", cursive;
+  color: rgb(43, 43, 43);
+}
+.cardetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-button {
+  transform: translate(-50%, 125%);
+  width: 60%;
+  border: none;
+  background-color: #008bf8;
+  color: #fff;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  opacity: 0;
+  transition: 0.3s ease-out;
+}
+
+.text-body {
+  color: rgb(134, 134, 134);
+}
+
+/*Text*/
+.text-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.text-title {
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+}
+.text-brand {
+  font-size: 15px;
+  margin: 0;
+  text-align: center;
+}
+.text-price {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
