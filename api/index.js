@@ -17,5 +17,3 @@ const index = async () => {
 };
 
 index();
-
-console.log("hola")
