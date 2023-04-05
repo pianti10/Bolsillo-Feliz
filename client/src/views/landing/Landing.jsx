@@ -15,7 +15,7 @@ const Landing = () => {
           data-aos="fade-right"
           data-aos-duration="1000"
           data-aos-offset="100"
-          src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1679540537/bc7dcql96smfzh8hq6z5.webp"
+          src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680711244/logos%20e%20imagenes/imagen_1_kylfvb.webp"
           alt=""
         />
         <div className="text-land-0">
@@ -40,7 +40,7 @@ const Landing = () => {
             data-aos="fade-left"
             data-aos-duration="10" 
             data-aos-offset="500"
-            src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1678571078/ykjrxtniiuds0hxja6kp.png"
+            src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680711263/logos%20e%20imagenes/imagen_2_aovxck.png"
             alt=""
           />
         </div>
@@ -60,7 +60,7 @@ const Landing = () => {
             data-aos="fade-up"
             data-aos-duration="10"
             data-aos-offset="500"
-            src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1678577632/zwkdyfffppgjpiddyycu.jpg"
+            src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680711280/logos%20e%20imagenes/imagen_3_af3vjo.jpg"
             alt=""
           />
         </div>
@@ -71,7 +71,7 @@ const Landing = () => {
             data-aos="fade-right"
             data-aos-duration="10"
             data-aos-offset="500"
-            src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1678574976/mxiwk9wpougp8gq3d2vs.png"
+            src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680711298/logos%20e%20imagenes/imagen_4_lezqrn.png"
             alt=""
           />
           <div className="text-land-2">
