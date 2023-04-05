@@ -29,7 +29,7 @@ export default function MercadoP() {
         </div>
         <img
           className="foto-mp"
-          src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1678683637/kbp243qvw2ld1stk2ixq.jpg"
+          src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680195927/logos%20e%20imagenes/kbp243qvw2ld1stk2ixq_pljqdh.jpg"
           alt=""
         />
       </div>
