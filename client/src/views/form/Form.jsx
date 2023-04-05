@@ -124,7 +124,7 @@ const Form = () => {
                     </label>
                     {input.image.length < 3 ? (
                       <img
-                        src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1679087243/uyrsuh0ojvnzedaxuvlj.webp"
+                        src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680195974/logos%20e%20imagenes/uyrsuh0ojvnzedaxuvlj_eyvj10.webp"
                         alt="logo"
                       />
                     ) : (
