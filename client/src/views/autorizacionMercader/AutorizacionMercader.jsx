@@ -153,7 +153,7 @@ const AutorizacionMercader = () => {
                     placeholder="Link de tu pagina"
                     name="link"
                     type="text"
-                    maxLength="20"
+                    maxLength="100"
                     value={input.link}
                     onChange={handleChange}
                   />
