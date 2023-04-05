@@ -27,7 +27,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677782047/hpq22sqqyewp3fbluvon.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680708410/News/leche%20serenisima.jpg",
       description:
         "La leche en envase es un producto fresco y saludable, esencial en cualquier hogar. Con un envase de plástico resistente y fácil de abrir, la leche se mantiene fresca y lista para ser consumida. Perfecta para disfrutar en el desayuno, preparar postres o agregar a bebidas calientes.",
     },
@@ -40,7 +40,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889117/uc9j4mem8tankytwbjwq.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680708133/News/leche%20dia.webp",
       description:
         "La leche en envase es un producto fresco y saludable, esencial en cualquier hogar. Con un envase de plástico resistente y fácil de abrir, la leche se mantiene fresca y lista para ser consumida. Perfecta para disfrutar en el desayuno, preparar postres o agregar a bebidas calientes.",
     },
@@ -53,7 +53,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889022/igrtk8c7zrq99v240gsz.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680708871/News/leche%20coto.jpg",
       description:
         "La leche en envase es un producto fresco y saludable, esencial en cualquier hogar. Con un envase de plástico resistente y fácil de abrir, la leche se mantiene fresca y lista para ser consumida. Perfecta para disfrutar en el desayuno, preparar postres o agregar a bebidas calientes.",
     },
@@ -66,7 +66,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889234/adb7pgtpa8msosylj2tz.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680708924/News/leche%20carrefour.webp",
       description:
         "La leche en envase es un producto fresco y saludable, esencial en cualquier hogar. Con un envase de plástico resistente y fácil de abrir, la leche se mantiene fresca y lista para ser consumida. Perfecta para disfrutar en el desayuno, preparar postres o agregar a bebidas calientes.",
     },
@@ -88,7 +88,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677782355/jj8llhztwulzhxthu5j3.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680717711/yogurt_tregar_arandano_wfz5js.webp",
       description:
         "El yogurt en envase es una deliciosa y saludable opción para cualquier momento del día. Con su textura cremosa y su sabor suave, se presenta en un envase de plástico con tapa hermética que mantiene su frescura. Perfecto para disfrutar solo, con frutas o en preparaciones culinarias.",
     },
@@ -109,7 +109,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889322/ind3uq7inxuooj2ktgdb.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680708966/News/yogurt%20tregar.jpg",
       description:
         "El yogurt en envase es una deliciosa y saludable opción para cualquier momento del día. Con su textura cremosa y su sabor suave, se presenta en un envase de plástico con tapa hermética que mantiene su frescura. Perfecto para disfrutar solo, con frutas o en preparaciones culinarias.",
     },
@@ -130,12 +130,12 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889429/bxbjepvih6hu13aezvz8.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709035/News/yogurt%20la%20lacteo.webp",
       description:
         "El yogurt en envase es una deliciosa y saludable opción para cualquier momento del día. Con su textura cremosa y su sabor suave, se presenta en un envase de plástico con tapa hermética que mantiene su frescura. Perfecto para disfrutar solo, con frutas o en preparaciones culinarias.",
     },
     {
-      name: "Yogurt",
+      name: "Yogurt Sin Lacteo",
       brand: "La lacteo",
       id: 8,
       price: [
@@ -151,7 +151,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889481/lrxb6opwxrug2qvgw3ge.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709150/News/yogurt%20la%20lacteo%20sin%20lacteos.jpg",
       description:
         "El yogurt en envase es una deliciosa y saludable opción para cualquier momento del día. Con su textura cremosa y su sabor suave, se presenta en un envase de plástico con tapa hermética que mantiene su frescura. Perfecto para disfrutar solo, con frutas o en preparaciones culinarias.",
     },
@@ -172,7 +172,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677782535/hpgnnpl6aimguu8bhnzx.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709278/News/queso%20untable%20la%20serenisima.webp",
       description:
         "El queso untable es una opción deliciosa y versátil para disfrutar en cualquier momento. Con su suave textura y sabor cremoso, se presenta en un envase de plástico práctico y fácil de abrir. Ideal para untar en panes, utilizar como ingrediente en recetas culinarias o como acompañamiento en platos fríos.",
     },
@@ -193,7 +193,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889568/ocatcjslalul4mcgywoz.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709351/News/queso%20untable%20la%20serenisima%202.jpg",
       description:
         "El queso untable es una opción deliciosa y versátil para disfrutar en cualquier momento. Con su suave textura y sabor cremoso, se presenta en un envase de plástico práctico y fácil de abrir. Ideal para untar en panes, utilizar como ingrediente en recetas culinarias o como acompañamiento en platos fríos.",
     },
@@ -214,7 +214,7 @@ import {
       category: "Huevos y Derivados",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677782691/aqupactsshcrgltgl6jf.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709407/News/huevo%20san%20juan.webp",
       description:
         "El huevo es un alimento nutritivo y versátil, con un sinfín de posibilidades en la cocina. Presentado en una cáscara resistente, contiene una yema y una clara con un alto valor proteico. Puede ser cocido de diversas maneras, desde revuelto hasta en forma de omelette, y es un ingrediente esencial en muchas recetas.",
     },
@@ -235,7 +235,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677782836/ysobrdyzarw38eicrg9p.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709491/News/manteca_la_serenisima_xie6kk.webp",
       description:
         "La manteca es un producto lácteo cremoso y suave, ideal para untar en panes o para cocinar. Presentada en un envase de plástico fácil de abrir, se conserva en perfectas condiciones en la nevera. La manteca es un ingrediente esencial en muchas recetas y le da a los alimentos un sabor irresistible.",
     },
@@ -256,7 +256,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889650/miritpmj3z8y7vvmgm8y.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709535/News/manteca_la_paulina_jtroip.webp",
       description:
         "La manteca es un producto lácteo cremoso y suave, ideal para untar en panes o para cocinar. Presentada en un envase de plástico fácil de abrir, se conserva en perfectas condiciones en la nevera. La manteca es un ingrediente esencial en muchas recetas y le da a los alimentos un sabor irresistible.",
     },
@@ -277,7 +277,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889720/useiyeveilr3hhlrx27l.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709585/News/manteca_sancor_ieoeth.webp",
       description:
         "La manteca es un producto lácteo cremoso y suave, ideal para untar en panes o para cocinar. Presentada en un envase de plástico fácil de abrir, se conserva en perfectas condiciones en la nevera. La manteca es un ingrediente esencial en muchas recetas y le da a los alimentos un sabor irresistible.",
     },
@@ -298,7 +298,7 @@ import {
       category: "Lácteos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889845/c63e5zqp5jimy7ivq9jy.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709610/News/manteca_tonadita_ohas4e.webp",
       description:
         "La manteca es un producto lácteo cremoso y suave, ideal para untar en panes o para cocinar. Presentada en un envase de plástico fácil de abrir, se conserva en perfectas condiciones en la nevera. La manteca es un ingrediente esencial en muchas recetas y le da a los alimentos un sabor irresistible.",
     },
@@ -320,7 +320,7 @@ import {
       category: "Aceites",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677783272/wpxhzvlfx8godsmerz5b.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709710/News/aceite_de_oliva_coppini_e8gkdy.jpg",
       description:
         "El aceite de oliva es un ingrediente indispensable en cualquier cocina. Presentado en una botella de vidrio o de plástico oscuro para proteger su calidad, es rico en grasas saludables y tiene un sabor y aroma únicos. Ideal para cocinar, aderezar ensaladas o dar un toque especial a cualquier plato.",
     },
@@ -341,7 +341,7 @@ import {
       category: "Aceites",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889904/okywvimqz7yuwrxb06zy.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709775/News/aceite_de_oliva_la_tranquilina_udlrdy.jpg",
       description:
         "El aceite de oliva es un ingrediente indispensable en cualquier cocina. Presentado en una botella de vidrio o de plástico oscuro para proteger su calidad, es rico en grasas saludables y tiene un sabor y aroma únicos. Ideal para cocinar, aderezar ensaladas o dar un toque especial a cualquier plato.",
     },
@@ -362,7 +362,7 @@ import {
       category: "Aceites",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889963/kfbesyauwwj3lxowzq25.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709797/News/aceite_de_oliva_lira_dp8kn0.webp",
       description:
         "El aceite de oliva es un ingrediente indispensable en cualquier cocina. Presentado en una botella de vidrio o de plástico oscuro para proteger su calidad, es rico en grasas saludables y tiene un sabor y aroma únicos. Ideal para cocinar, aderezar ensaladas o dar un toque especial a cualquier plato.",
     },
@@ -383,7 +383,7 @@ import {
       category: "Aceites",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677889994/x2posl6fdrakpagq2sjo.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680716553/News/aceite_de_oliva_morixe_fmhdhj.webp",
       description:
         "El aceite de oliva es un ingrediente indispensable en cualquier cocina. Presentado en una botella de vidrio o de plástico oscuro para proteger su calidad, es rico en grasas saludables y tiene un sabor y aroma únicos. Ideal para cocinar, aderezar ensaladas o dar un toque especial a cualquier plato.",
     },
@@ -404,7 +404,7 @@ import {
       category: "Aceites",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677783457/tl8jxrq5chbffxcj6kn0.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709869/News/aceite_vegetal_natura_yqqefj.jpg",
       description:
         "El aceite vegetal es un ingrediente versátil y económico en la cocina. Presentado en una botella de plástico resistente, es perfecto para freír, hornear o saltear. Se elabora a partir de diferentes tipos de plantas y semillas, lo que le confiere un sabor neutro que no interfiere en el sabor de los alimentos.",
     },
@@ -425,7 +425,7 @@ import {
       category: "Aceites",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677890056/kfqx8b3lidwasxsfz2vy.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/aceite_vegetal_deleite_fm0kxa.webp",
       description:
         "El aceite vegetal es un ingrediente versátil y económico en la cocina. Presentado en una botella de plástico resistente, es perfecto para freír, hornear o saltear. Se elabora a partir de diferentes tipos de plantas y semillas, lo que le confiere un sabor neutro que no interfiere en el sabor de los alimentos.",
     },
@@ -446,7 +446,7 @@ import {
       category: "Aceites",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677890088/ls49ctoyrfvfy9fe3bh2.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/aceite_vegetal_primor_pao07t.jpg",
       description:
         "El aceite vegetal es un ingrediente versátil y económico en la cocina. Presentado en una botella de plástico resistente, es perfecto para freír, hornear o saltear. Se elabora a partir de diferentes tipos de plantas y semillas, lo que le confiere un sabor neutro que no interfiere en el sabor de los alimentos.",
     },
@@ -467,7 +467,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677783552/otzv3ugxajvumgqiwokk.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/azucar_ledesma_nlruhk.webp",
       description:
         "El azúcar es un ingrediente básico en la repostería y en la cocina en general. Presentado en una bolsa o en un envase de cartón resistente, su textura fina y granulada permite una fácil disolución en líquidos y la creación de postres deliciosos. Esencial en la preparación de bebidas, postres y en la elaboración de algunas salsas.",
     },
@@ -489,7 +489,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677890198/kvq4nhgsa7smsso7eoib.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/azucar_chango_jd0tnq.jpg",
       description:
         "El azúcar es un ingrediente básico en la repostería y en la cocina en general. Presentado en una bolsa o en un envase de cartón resistente, su textura fina y granulada permite una fácil disolución en líquidos y la creación de postres deliciosos. Esencial en la preparación de bebidas, postres y en la elaboración de algunas salsas.",
     },
@@ -507,7 +507,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677890228/seazluxalg9hb6oavvrk.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/azucar_carrefour_js7pff.webp",
       description:
         "El azúcar es un ingrediente básico en la repostería y en la cocina en general. Presentado en una bolsa o en un envase de cartón resistente, su textura fina y granulada permite una fácil disolución en líquidos y la creación de postres deliciosos. Esencial en la preparación de bebidas, postres y en la elaboración de algunas salsas.",
     },
@@ -528,7 +528,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677890269/rpit0qdx0b19zyl2yt57.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/azucar_dominio_k2gfme.jpg",
       description:
         "El azúcar es un ingrediente básico en la repostería y en la cocina en general. Presentado en una bolsa o en un envase de cartón resistente, su textura fina y granulada permite una fácil disolución en líquidos y la creación de postres deliciosos. Esencial en la preparación de bebidas, postres y en la elaboración de algunas salsas.",
     },
@@ -549,7 +549,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677783691/svsfhmltruz3f7cbvzlt.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/miel_aleluya_ber9uj.jpg",
       description:
         "La miel es un producto natural y delicioso, elaborado por las abejas a partir del néctar de las flores. Presentada en un envase de vidrio o de plástico, su textura suave y sabor dulce la hacen perfecta para endulzar infusiones, postres y otros platos. Además, posee propiedades antioxidantes y antibacterianas beneficiosas para la salud.",
     },
@@ -570,7 +570,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677893652/aducouvse6qgobaqhqxe.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/miel_alemany_spq2nt.jpg",
       description:
         "La miel es un producto natural y delicioso, elaborado por las abejas a partir del néctar de las flores. Presentada en un envase de vidrio o de plástico, su textura suave y sabor dulce la hacen perfecta para endulzar infusiones, postres y otros platos. Además, posee propiedades antioxidantes y antibacterianas beneficiosas para la salud.",
     },
@@ -591,7 +591,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677893699/xuvbhm2vwhu8pmmfm6xh.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/miel_nectar_de_los_dioses_f9vyyu.jpg",
       description:
         "La miel es un producto natural y delicioso, elaborado por las abejas a partir del néctar de las flores. Presentada en un envase de vidrio o de plástico, su textura suave y sabor dulce la hacen perfecta para endulzar infusiones, postres y otros platos. Además, posee propiedades antioxidantes y antibacterianas beneficiosas para la salud.",
     },
@@ -612,7 +612,7 @@ import {
       category: "Endulzantes",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677893759/ccebaoknyjnmkifqlctq.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709844/News/miel_romero_uw7vik.jpg",
       description:
         "La miel es un producto natural y delicioso, elaborado por las abejas a partir del néctar de las flores. Presentada en un envase de vidrio o de plástico, su textura suave y sabor dulce la hacen perfecta para endulzar infusiones, postres y otros platos. Además, posee propiedades antioxidantes y antibacterianas beneficiosas para la salud.",
     },
@@ -633,7 +633,7 @@ import {
       category: "Café y Té",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677783759/n6jxzahuwqco2hklunob.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/cafe_nescafe_qzyi8g.webp",
       description:
         "El café en polvo es un producto indispensable para los amantes del café. Presentado en una bolsa o en un envase de vidrio o plástico, su textura fina y su aroma intenso lo hacen perfecto para preparar una taza de café. Ideal para disfrutar en cualquier momento del día, solo o con leche.",
     },
@@ -654,7 +654,7 @@ import {
       category: "Café y Té",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677893858/mirjhcj0pnedke3ptlqs.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/cafe_arlistan_ydpz4z.webp",
       description:
         "El café en polvo es un producto indispensable para los amantes del café. Presentado en una bolsa o en un envase de vidrio o plástico, su textura fina y su aroma intenso lo hacen perfecto para preparar una taza de café. Ideal para disfrutar en cualquier momento del día, solo o con leche.",
     },
@@ -675,7 +675,7 @@ import {
       category: "Café y Té",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677893892/k5cixfwkhxsvbbnvzomk.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/cafe_la_virginia_uaehvy.webp",
       description:
         "El café en polvo es un producto indispensable para los amantes del café. Presentado en una bolsa o en un envase de vidrio o plástico, su textura fina y su aroma intenso lo hacen perfecto para preparar una taza de café. Ideal para disfrutar en cualquier momento del día, solo o con leche.",
     },
@@ -696,7 +696,7 @@ import {
       category: "Café y Té",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677893952/msylq0jkpkhzxuxdtkwl.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709844/News/te_la_virginia_ic6l8m.png",
       description:
         "El té es una bebida aromática y saludable que se presenta en una amplia variedad de sabores y tipos. Se puede encontrar en bolsitas individuales, en cajas de cartón o en latas. Ideal para disfrutar en cualquier momento del día, solo o con leche, ofrece beneficios para la salud y un agradable momento de relajación.",
     },
@@ -717,7 +717,7 @@ import {
       category: "Café y Té",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677783875/o4vtkrtihpihyuymcrsy.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709844/News/te_Gree_hills_hjvcli.jpg",
       description:
         "El té es una bebida aromática y saludable que se presenta en una amplia variedad de sabores y tipos. Se puede encontrar en bolsitas individuales, en cajas de cartón o en latas. Ideal para disfrutar en cualquier momento del día, solo o con leche, ofrece beneficios para la salud y un agradable momento de relajación.",
     },
@@ -738,7 +738,7 @@ import {
       category: "Café y Té",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677893993/xkdcoedousqp9onj9rgc.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709844/News/te_lipton_s54brv.jpg",
       description:
         "El té es una bebida aromática y saludable que se presenta en una amplia variedad de sabores y tipos. Se puede encontrar en bolsitas individuales, en cajas de cartón o en latas. Ideal para disfrutar en cualquier momento del día, solo o con leche, ofrece beneficios para la salud y un agradable momento de relajación.",
     },
@@ -759,7 +759,7 @@ import {
       category: "Sopas y Caldos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677784037/frifxvygwtubdldu4vuo.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709842/News/fideos_instantaneos_maruchan_oizcgt.webp",
       description:
         "Los fideos instantáneos son un producto práctico y rápido de preparar. Presentados en envases individuales o en paquetes, vienen con una variedad de salsas y condimentos para darles un sabor delicioso. Solo se requiere de agua caliente y unos minutos de espera para disfrutar de un plato de fideos sabroso y reconfortante.",
     },
@@ -780,7 +780,7 @@ import {
       category: "Sopas y Caldos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677894063/qrtyngvtghvutdivlv1l.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/fideos_instantaneos_mr_noodles_nipjgg.jpg",
       description:
         "Los fideos instantáneos son un producto práctico y rápido de preparar. Presentados en envases individuales o en paquetes, vienen con una variedad de salsas y condimentos para darles un sabor delicioso. Solo se requiere de agua caliente y unos minutos de espera para disfrutar de un plato de fideos sabroso y reconfortante.",
     },
@@ -801,7 +801,7 @@ import {
       category: "Sopas y Caldos",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677894101/yxot1stt1dhxlngufxxs.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/fideos_instantaneos_nissin_au5rou.webp",
       description:
         "Los fideos instantáneos son un producto práctico y rápido de preparar. Presentados en envases individuales o en paquetes, vienen con una variedad de salsas y condimentos para darles un sabor delicioso. Solo se requiere de agua caliente y unos minutos de espera para disfrutar de un plato de fideos sabroso y reconfortante.",
     },
@@ -822,7 +822,7 @@ import {
       category: "Legumbres",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677784365/d1karryrtindrkuyscdf.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/porotos_arcor_e6mddg.jpg",
       description:
         "Los porotos son una fuente rica de proteínas y fibra, esenciales en una dieta saludable y equilibrada. Presentados en bolsas de plástico o enlatados, vienen en diferentes variedades, desde negros hasta rojos, y pueden ser utilizados en una amplia variedad de platos, como ensaladas, sopas, guisos y chili. Son un alimento versátil y nutritivo.",
     },
@@ -843,7 +843,7 @@ import {
       category: "Legumbres",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677894227/fbsisvvqqdu2rkjcvgjj.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709844/News/porotos_la_campagnola_ht2tng.webp",
       description:
         "Los porotos son una fuente rica de proteínas y fibra, esenciales en una dieta saludable y equilibrada. Presentados en bolsas de plástico o enlatados, vienen en diferentes variedades, desde negros hasta rojos, y pueden ser utilizados en una amplia variedad de platos, como ensaladas, sopas, guisos y chili. Son un alimento versátil y nutritivo.",
     },
@@ -864,7 +864,7 @@ import {
       category: "Legumbres",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677894276/eimudcmm65rimvv5gvvj.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709844/News/porotos_ciudad_del_lago_zr8kay.jpg",
       description:
         "Los porotos son una fuente rica de proteínas y fibra, esenciales en una dieta saludable y equilibrada. Presentados en bolsas de plástico o enlatados, vienen en diferentes variedades, desde negros hasta rojos, y pueden ser utilizados en una amplia variedad de platos, como ensaladas, sopas, guisos y chili. Son un alimento versátil y nutritivo.",
     },
@@ -885,7 +885,7 @@ import {
       category: "Legumbres",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677784445/rl5w7eosyqsbn71f7rfk.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/garbanzos_arcor_egr0ht.jpg",
       description:
         "Los garbanzos son una legumbre versátil y nutritiva, rica en proteínas, fibra y carbohidratos complejos. Presentados enlatados o en bolsas de plástico, son un ingrediente esencial en la cocina mediterránea y en la preparación de platos como el hummus, la ensalada de garbanzos o el curry de garbanzos. Además, son económicos y fáciles de almacenar.",
     },
@@ -906,7 +906,7 @@ import {
       category: "Legumbres",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677894304/ygjocsonjwbdanfvek3s.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/garbanzos_la_campagnola_jf9kmn.jpg",
       description:
         "Los garbanzos son una legumbre versátil y nutritiva, rica en proteínas, fibra y carbohidratos complejos. Presentados enlatados o en bolsas de plástico, son un ingrediente esencial en la cocina mediterránea y en la preparación de platos como el hummus, la ensalada de garbanzos o el curry de garbanzos. Además, son económicos y fáciles de almacenar.",
     },
@@ -927,7 +927,7 @@ import {
       category: "Legumbres",
       supermarket: "General",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677894361/dqxdwrfbyt9vfeneldvj.jpg",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680709843/News/garbanzos_ciudad_del_lago_iouhwg.jpg",
       description:
         "Los garbanzos son una legumbre versátil y nutritiva, rica en proteínas, fibra y carbohidratos complejos. Presentados enlatados o en bolsas de plástico, son un ingrediente esencial en la cocina mediterránea y en la preparación de platos como el hummus, la ensalada de garbanzos o el curry de garbanzos. Además, son económicos y fáciles de almacenar.",
     },
@@ -1003,49 +1003,49 @@ import {
     {
       name: "Dia",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677676677/ovuozay6oxqpnmqek4u0.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710618/Marcas/marca_dia_qojjnh.png",
       ubications: ubiDia,
     },
     {
       name: "Coto",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677676677/xin8w1koh0ck5vu1vrem.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710614/Marcas/marca_coto_yjwhmw.png",
       ubications: ubiCoto,
     },
     {
       name: "Carrefour",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677676677/g8iupzjk1qrtkvr2lefo.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710597/Marcas/carrefour_h7jx8k.png",
       ubications: ubiCarrefour,
     },
     {
       name: "Disco",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677676677/z6w6n2scxq7pp4tqjvpm.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710597/Marcas/disco_eixb4x.png",
       ubications: ubiDisco,
     },
     {
       name: "Jumbo",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677676678/gy5hpxliqxoknxbkytg2.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710597/Marcas/jumbo_cohs6k.png",
       ubications: ubiJumbo,
     },
     {
       name: "Vea",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677676678/elsssfc03lvqxk6a3p4i.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710598/Marcas/vea_essiiv.png",
       ubications: ubiVea,
     },
     {
       name: "Vital",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677676678/urcpur3gnbkjftcz1meh.png",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710597/Marcas/vital_ulgpxc.png",
       ubications: ubiVital,
     },
     {
       name: "Walmart",
       image:
-        "https://res.cloudinary.com/dzuasgy3l/image/upload/v1677805204/m5xpm7k7ovcmplzkwakl.webp",
+        "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680710597/Marcas/walmart_fv5qrb.webp",
       ubications: ubiWalmart,
     },
   ];
