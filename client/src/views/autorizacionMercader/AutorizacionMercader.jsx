@@ -105,7 +105,7 @@ const AutorizacionMercader = () => {
         <div className="autorizar-container">
           <div className="register-logo">
             <img
-              src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1677807225/de0ieqim2kymph6cldvl.webp"
+              src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680711188/logos%20e%20imagenes/logo_navBar_ub0yw4.webp"
               alt="logo"
             />
           </div>
@@ -119,7 +119,7 @@ const AutorizacionMercader = () => {
                   </label>
                   {input.image.length < 3 ? (
                     <img
-                      src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1679087243/uyrsuh0ojvnzedaxuvlj.webp"
+                      src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680195974/logos%20e%20imagenes/uyrsuh0ojvnzedaxuvlj_eyvj10.webp"
                       alt="logo"
                     />
                   ) : (
@@ -153,7 +153,7 @@ const AutorizacionMercader = () => {
                     placeholder="Link de tu pagina"
                     name="link"
                     type="text"
-                    maxLength="20"
+                    maxLength="100"
                     value={input.link}
                     onChange={handleChange}
                   />

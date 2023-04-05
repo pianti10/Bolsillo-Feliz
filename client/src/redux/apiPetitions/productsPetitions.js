@@ -18,6 +18,7 @@ export async function getProductos(dispatch) {
   } catch (error) {
     return error.response;
   }
+  console.log(allProducts)
 }
 
 export async function getProductId(dispatch, id) {

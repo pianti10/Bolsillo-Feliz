@@ -124,7 +124,7 @@ const Market = () => {
               position={estate.location}
               icon={L.icon({
                 iconUrl:
-                  "https://res.cloudinary.com/dzuasgy3l/image/upload/c_scale,w_30/v1679552688/f3zk9cowsi3mfdivsewn.png",
+                  "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680195987/logos%20e%20imagenes/xsw0lmp7sgi9psu1plgl_bcr3ge.png",
               })}
             >
               <Popup>Vos</Popup>
@@ -138,7 +138,7 @@ const Market = () => {
                 position={a}
                 icon={L.icon({
                   iconUrl:
-                    "https://res.cloudinary.com/dzuasgy3l/image/upload/v1679009741/yajixzbn1c7n5ssgkqcm.png",
+                    "https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680718980/logos%20e%20imagenes/yajixzbn1c7n5ssgkqcm_bf7mds.png",
                 })}
               >
                 {" "}
