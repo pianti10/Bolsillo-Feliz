@@ -53,7 +53,7 @@ const Navbar = () => {
       <div className="logo-Container">
         <Link to="/home">
           <img
-            src="https://res.cloudinary.com/dzuasgy3l/image/upload/v1677807225/de0ieqim2kymph6cldvl.webp"
+            src="https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680711188/logos%20e%20imagenes/logo_navBar_ub0yw4.webp"
             alt="logo"
           />
         </Link>

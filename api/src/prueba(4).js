@@ -1083,7 +1083,7 @@ import {
 export let Usuarios = {
       name: `Admin`,
       last_name: `Master`,
-      avatar: `https://res.cloudinary.com/dzuasgy3l/image/upload/v1679368685/b8qhuczmn9dtlbidmgl9.webp`,
+      avatar: `https://res.cloudinary.com/dhgvx0k7m/image/upload/v1680195891/logos%20e%20imagenes/b8qhuczmn9dtlbidmgl9_j2zhdy.webp`,
       email: `admin@gmail.com`,
       type_account: "3",
       password:'admin123',
