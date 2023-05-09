@@ -177,7 +177,7 @@ html {
     background-size: cover;
   }
   100% {
-    background-image: url(https://res.cloudinary.com/dhgvx0k7m/image/upload/v1682106091/banners/oigno0vnzkexuoxumovc_r3ocyb.jpg);
+    /* background-image: url(https://res.cloudinary.com/dhgvx0k7m/image/upload/v1682106091/banners/oigno0vnzkexuoxumovc_r3ocyb.jpg); */
     background-size: cover;
   }
 }
